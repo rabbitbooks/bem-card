@@ -1,5 +1,19 @@
 :root {
-    --black: #212121;
-    --gray: #868686;
-    --white: #fff;
+    --cardBgc: #f2e5de;
+    --white: white;
+    --black: black;
+    --blue: #2d91a1;
+    --grayStar: #afafaf;
+    --yelowStar: #ffe404;
+    --textBlack: #211f1f;
+    --textGray: #676666;
+    --priceDiscount: #55a32a;
+    --fbIco: #305891;
+    --twitIco: #39add5;
+    --gIco: #c72e0b;
+    --grayIco: #e3e3e3;
+    --btnPrimarry: #55a32a;
+    --btnAttention: #2d91a1;
+    --logoBgr: #2d2d2d;
+    --grayLine: #ebebeb;
 }
